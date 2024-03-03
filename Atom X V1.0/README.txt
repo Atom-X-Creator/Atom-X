@@ -18,4 +18,10 @@ After almost every game it will crash because you are connecting to players on t
 
 while you are on an outdated verison. If this happens, don't freak out, simply relaunch the game, and reinject.
 
+If your PC gives you a false positive and detects this as a virus, no worries, this is a legit program. 
+
+What you see is what you get. Simple fix if it gets deleted, just turn your anti virus off, and redownload it/restore it.
+
+I know it sounds really sketchy to say to turn it off, but I had to do it myself to use my own program. 
+
 Stay safe, use at your own risk, and have fun!
