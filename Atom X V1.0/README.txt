@@ -6,7 +6,9 @@ Step 2: Run Atom X To Get The GUI
 
 Step 3: Press Inject On The Gui
 
-Step 4: Have fun using Atom X!
+Step 4: Join A Match
+
+Step 5: Have fun using Atom X!
 
 
 
