@@ -1,1 +1,1 @@
-Download as ZIP, extract, and when you open the folder, it is important you read the README file in the folder. Also some antiviruses may give false positives and detect it as a "virus". As the person who created it, even my own PC flagged it. It is safe to use.
+Download as ZIP, extract, and when you open the folder, it is important you read the README file in the folder with all the files including Atom X. Also some antiviruses may give false positives and detect it as a "virus". As the person who created it, even my own PC flagged it. It is safe to use.
