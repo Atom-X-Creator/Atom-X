@@ -8,6 +8,9 @@ Step 3: Press inject .
 
 Step 4: Have fun using Atom X!
 
+
+
+
 PS: You must use steamdb, revert to il2cpp version of 1v1.lol
 
 then Atom X will work. But note that using anything other than the visuals and changing circle size,
