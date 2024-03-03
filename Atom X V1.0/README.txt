@@ -2,9 +2,9 @@ This is a simple tutorial on how to use Atom X.
 
 Step 1: Open 1v1.LOL.
 
-Step 2: Run Atom X.
+Step 2: Run Atom X To Get The GUI
 
-Step 3: Press inject .
+Step 3: Press Inject On The Gui
 
 Step 4: Have fun using Atom X!
 
